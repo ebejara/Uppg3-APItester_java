@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class FakeStoreApiTest {  // MÅSTE vara public!
+public class FakeStoreApiTest {
     private static final Logger logger = LoggerFactory.getLogger(FakeStoreApiTest.class);
 
     @Test

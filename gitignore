@@ -1,9 +1,30 @@
 # Maven
 target/
+.mvn/
+mvnw
+mvnw.cmd
 
 # IDE-filer
 .idea/
 *.iml
+*.iws
+*.ipr
+.vscode/
+.classpath
+.project
+.settings
+.factorypath
+.springBeans
+.sts4-cache
 
-# Loggar och temporära filer
+# NetBeans
+nbproject/
+build/
+dist/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# Övrigt
 *.log
+HELP.md
