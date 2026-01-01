@@ -1,0 +1,9 @@
+# Maven
+target/
+
+# IDE-filer
+.idea/
+*.iml
+
+# Loggar och temporära filer
+*.log
